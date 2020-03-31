@@ -1,0 +1,10 @@
+dbinfo:
+  type: mysql
+  uri: 127.0.0.1:7306
+  user: root
+  pwd: root123
+  dataname: knowledge
+goroutinenum: 30
+retrytime: 5
+limit: 100
+logfile: E:\NULL\datacapture\log.txt
